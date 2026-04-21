@@ -42,7 +42,7 @@ Vision Transformers revolutionized computer vision by treating images as sequenc
 ```bash
 # Clone or download this repository
 git clone https://github.com/dlawiz/Vision-Transformer-Attention-Explorer.git
-cd Vision-Transformer-Attention-Explorer
+
 
 # Install dependencies
 pip install -r requirements.txt
