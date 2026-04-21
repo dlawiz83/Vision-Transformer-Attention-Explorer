@@ -1,0 +1,26 @@
+# Vision Transformer Attention Explorer
+# Python 3.8+
+# Install with: pip install -r requirements.txt
+
+# Core ML/DL
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Visualization
+matplotlib>=3.7.0
+numpy>=1.23.0
+
+# Image handling
+Pillow>=9.5.0
+
+# Interactive notebook
+marimo>=0.1.0
+
+# Utilities
+requests>=2.31.0
+
+# Optional: for development
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
